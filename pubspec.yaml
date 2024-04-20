@@ -10,6 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_map: ^6.1.0
+  location: ^6.0.1
+  syncfusion_flutter_maps: ^25.1.40
 
 dev_dependencies:
   flutter_test:
